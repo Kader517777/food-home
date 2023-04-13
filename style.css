@@ -4,6 +4,21 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+header {
+    display: flex;
+    background: lightgray;
+
+}
+
+.Food-home {
+    width: 50%;
+    margin: auto;
+    padding: 1%;
+}
+
+
+
+
 section {
     display: flex;
 
@@ -58,6 +73,7 @@ p {
     margin: auto;
     padding-top: 4%;
 
+
 }
 
 .bg-image {
@@ -65,6 +81,7 @@ p {
     margin: 0%;
     border-image-repeat: none;
     width: 100%;
+
 
 }
 
@@ -81,6 +98,8 @@ p {
     display: block;
     width: 100%;
     margin: auto;
+
+
 }
 
 .food1 {
